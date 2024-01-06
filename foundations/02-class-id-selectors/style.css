@@ -1,0 +1,17 @@
+.one{
+background-color: lightcoral;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+.one.no{
+    font-size: 24px;
+}
+#no2{
+    color:blue;
+    font-size: 36px;
+}
+#no4{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: 1000;
+}
